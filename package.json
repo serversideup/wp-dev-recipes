@@ -1,0 +1,16 @@
+{
+  "name": "wp-dev-recipes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/content-theme-docs": "^0.5.5",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "nuxt": "^2.14.4"
+  }
+}

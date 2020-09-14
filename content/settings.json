@@ -1,0 +1,10 @@
+{
+  "title": "WP Dev Recipes",
+  "url": "https://github.test",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "serversideup/github-test",
+  "twitter": "@serversideup"
+}
