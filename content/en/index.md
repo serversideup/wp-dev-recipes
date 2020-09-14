@@ -16,7 +16,7 @@ features:
 
 <alert type="success">
 
-Your documentation has been created successfully!
+The CI is working!
 
 </alert>
 
