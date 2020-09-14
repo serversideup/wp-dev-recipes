@@ -1,7 +1,7 @@
 {
   "name": "wp-dev-recipes",
   "short_name": "wp-dev-recipes",
-  "description": "## Setup",
+  "description": "If you want to get started with WordPress development, or are a seasoned Wordpress developer, there's something for everyone. WP Dev Recipes is a knowledgebase dedicated to WordPress Developers where you can jump around to whatever topic you want.",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.8f91ea.png",
