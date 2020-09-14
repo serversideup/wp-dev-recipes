@@ -1,4 +1,4 @@
-# wp-dev-recipes
+# WP Dev Recipes
 
 ## Setup
 
