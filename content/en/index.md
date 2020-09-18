@@ -10,6 +10,13 @@ features:
   - All source code is freely available under the MIT license
   - Every recipe follows modern development practices
 ---
+<alert type="warning">
+
+This project is a **constantly evolving knowledgebase**. We're adding new content to this every week.
+
+[Follow our progress on Twitter →](https://twitter.com/serversideup)
+
+</alert>
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
