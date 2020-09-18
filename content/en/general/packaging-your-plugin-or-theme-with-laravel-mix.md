@@ -5,6 +5,10 @@ position: 1
 category: General
 ---
 
+<social :tweet-text="'Packaging Your WordPress Plugin or Theme With Laravel Mix'"
+    :page-url="'https://wp-dev-recipes.serversideup.net/general/packaging-your-plugin-or-theme-with-laravel-mix'"
+    :github-url="'https://github.com/serversideup/wp-dev-recipes'"></social>
+
 <recipe-header 
     :wordpress-versions="[5.4, 5.5]"
     :tutorial="{
