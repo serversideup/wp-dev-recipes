@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://wp-dev-recipes.serversideup.net/" target="_blank">
-		<img src="https://wp-dev-recipes.serversideup.net/preview.png" width="1200" alt="AmplitudeJS Logo">
+		<img src="https://wp-dev-recipes.serversideup.net/preview.png" width="1200" alt="WP Dev Recipes Logo">
 	</a>
 </p>
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center">
 	<a href="https://actions-badge.atrox.dev/serversideup/wp-dev-recipes/goto?ref=master"><img alt="Build Status" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fserversideup%2Fwp-dev-recipes%2Fbadge%3Fref%3Dmaster&style=flat" /></a>
 	<a href="https://community.serversideup.net/c/open-source/wp-dev-recipes/29" target="_blank"><img src="https://badgen.net/badge/icon/On%20Discourse?label=chat&color=cyan" alt="Chat"></a>
-	<a href="https://github.com/serversideup/wp-dev-recipes/blob/master/LICENSE" target="_blank"><img src="https://badgen.net/github/license/521dimensions/amplitudejs" alt="License"></a>
+	<a href="https://github.com/serversideup/wp-dev-recipes/blob/master/LICENSE" target="_blank"><img src="https://badgen.net/github/license/serversideup/wp-dev-recipes" alt="License"></a>
 	<a href="https://github.com/sponsors/serversideup"><img src="https://badgen.net/badge/icon/Support%20Us?label=GitHub%20Sponsors&color=orange" alt="Support us"></a>
 </p>
 
