@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: ''
+description: 'WP Dev Recipes is a collection of modular code “recipes” to make your WordPress development experience easier.'
 position: 0
 category: ''
 features:
