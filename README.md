@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://wp-dev-recipes.serversideup.net/" target="_blank">
-		<img src="https://wp-dev-recipes.serversideup.net/preview.png" width="600" alt="AmplitudeJS Logo">
+		<img src="https://wp-dev-recipes.serversideup.net/preview.png" width="1200" alt="AmplitudeJS Logo">
 	</a>
 </p>
 <p align="center">
