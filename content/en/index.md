@@ -13,10 +13,18 @@ features:
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
 
-# We love WordPress 
-We've been working with WordPress for over 14 years and it's definitely one of the most powerful open source projects of our time. We've built everything from small personal blogs, to large scale e-commerce platforms using Woocommerce.
+# Make WordPress Development Easier
+**WordPress is easy to get started with, but too easy to develop incorrectly for**.
 
-Along the way, we've developed an extremely wide variety of code snippets that are functional, re-usable, and can be imlemented easily into your custom WordPress solution. We've collected all of these snippets, documented and compiled them into recipes, and will be sharing them here.
+The WordPress ecosystem is filled with a "just install a plugin" mindset. The more plugins you install, the more challenging WordPress becomes to maintain. Everytime you press the update button can be like playing a nightmare version of Jenga.
+
+We've been working with WordPress for over 14 years and have developed a number of custom mobile and web apps with other modern development frameworks. We still loop back to WordPress for blogs and e-commerce (with WooCommerce).
+
+Along our journey of developing mobile and web apps, we took the modern development practices we learned and applied them to WordPress.
+
+Our WordPress development is now faster and easier to maintain. Most of the time we don't need to install a third party plugin. If we do, we have tips on how to spot the quality ones.
+
+We want to share our experience with you in an open and freely accessible guide.
 
 # Why "WP Dev Recipes"?
 We created a collection of "recipes" to make it easier for you to build and maintain your next WordPress project.
