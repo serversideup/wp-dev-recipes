@@ -13,7 +13,7 @@
             Share
         </a>
         <a
-            :href="'https://twitter.com/intent/tweet?text='+tweetText+'&amp;url='+encodeURI(url)+'&amp;via=serversideup'"
+            :href="'https://twitter.com/intent/tweet?text='+tweetText+'&amp;url='+encodeURI(pageUrl)+'&amp;via=serversideup'"
             target="_blank"
             class="shr__button shr__button--twitter js-shr"
         >
