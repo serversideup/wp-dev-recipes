@@ -1,27 +1,7 @@
 ---
 title: Introduction
 description: ''
-position: 1
+position: 0
 category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
 ---
-
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
-
-[Module]() for [NuxtJS](https://nuxtjs.org).
-
-<alert type="success">
-
-The CI is working!
-
-</alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
+We love WordPress and have been working with the platform for more than 10 years. We've built everything from small personal blogs, to large scale e-commerce platforms using Woocommerce. Along the way, we've developed an extremely wide variety of code snippets that are functional, re-usable, and can be imlemented easily into your custom WordPress solution. We've collected all of these snippets, documented and compiled them into recipes, and will be sharing them here.
