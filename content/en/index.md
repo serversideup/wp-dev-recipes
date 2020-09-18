@@ -5,6 +5,7 @@ position: 0
 category: ''
 features:
   - Each recipe is modular and re-usable that solves one problem, very well
+  - We cover many undocumented features inside of WordPress
   - You'll never need to install plugins to solve simple functionality
   - All source code is freely available under the MIT license
   - Every recipe follows modern development practices
