@@ -1,8 +1,8 @@
 ---
-title: Why We Built WP Dev Recipes (Our Principles)
+title: Our Principles
 description: ''
 position: 0.1
-category: General
+category: ''
 ---
 To help you as a custom WordPres developer find simple to integrate scripts (recipes) you can use to add functionality, beauty, and customization to your custom WordPress theme or plugin. We believe that installing multiple plugins to solve minimal functionality is the *wrong* way to approach adding functionality to WordPress. With a well structured, theme or plugin, most features and functionality can be added to your install and easily managed through custom code. 
 
