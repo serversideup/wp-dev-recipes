@@ -10,11 +10,9 @@ category: General
     :github-url="'https://github.com/serversideup/wp-dev-recipes'"></social>
 
 <recipe-header 
-    :wordpress-versions="[5.4, 5.5]"
-    :tutorial="{
-        link: 'https://serversideup.net/using-laravel-mix-in-a-wordpress-theme/',
-        name: 'Using Laravel Mix in a WordPress Theme'
-    }">
+    :complexity="'Low'"
+    :compatibility="['Wordpress 5.4, 5.5+']"
+    :tutorial="'https://serversideup.net/using-laravel-mix-in-a-wordpress-theme/'">
     </recipe-header>
 
 ## Pre-Requisite
