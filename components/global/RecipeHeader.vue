@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full flex flex-col">
+    <div class="w-full flex flex-col" v-if="tutorial != '' || discussion != '' || complexity != '' || compatibility.length > 0">
         <div class="flex items-center mb-6" v-if="tutorial != '' || discussion != ''">
             <a v-if="tutorial != ''" target="_blank" :href="tutorial" style="text-decoration: none !important; color: #3A66DB !important; font-weight: bold !important;" class="rounded-5 border border-tutorial-button-blue py-2 px-4 text-base leading-5 no-underline mr-2">
                 👉 Read the tutorial
