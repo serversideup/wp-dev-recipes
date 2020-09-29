@@ -22,7 +22,7 @@ category: Themes
 ## Overview
 Implementing this recipe will allow you to use the functionality of [TailwindCSS](https://tailwindcss.com) in your WordPress theme. TailwindCSS makes designing themes a breeze. Implementing this recipe will increase the speed of how fast you can design your WordPress theme.
 
-## Step 1. Include TailwindCSS in Your Package
+## Step 1: Include TailwindCSS in Your Package
 
 ```bash
 npm install tailwindcss
