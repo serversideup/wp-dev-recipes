@@ -6,6 +6,7 @@ const createSitemapRoutes = async () => {
   routes.push('/how-to-use-these-recipes');
   routes.push('/general/packaging-your-plugin-or-theme-with-laravel-mix');
   routes.push('/themes/install-tailwind-css-in-your-wordpress-theme');
+  routes.push('/themes/add-custom-menu-to-your-wordpress-theme');
   
   return routes;
 }
