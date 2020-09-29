@@ -4,7 +4,7 @@
             <a v-if="tutorial != ''" target="_blank" :href="tutorial" style="text-decoration: none !important; color: #3A66DB !important; font-weight: bold !important;" class="rounded-5 border border-tutorial-button-blue py-2 px-4 text-base leading-5 no-underline mr-2">
                 👉 Read the tutorial
             </a>
-            <a  target="_blank" :href="discussion" style="text-decoration: none !important; color: #718096 !important; font-weight: bold !important;" class="rounded-5 border border-discussion-button-gray py-2 px-4 text-base leading-5 no-underline">
+            <a v-if="discussion != ''" target="_blank" :href="discussion" style="text-decoration: none !important; color: #718096 !important; font-weight: bold !important;" class="rounded-5 border border-discussion-button-gray py-2 px-4 text-base leading-5 no-underline">
                 🗣 Leave a comment
             </a>
         </div>

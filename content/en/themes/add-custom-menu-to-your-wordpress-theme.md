@@ -12,7 +12,8 @@ category: Themes
 
 <recipe-header 
     :complexity="'Low'"
-    :compatibility="['Wordpress 5.4, 5.5+']">
+    :compatibility="['Wordpress 5.4, 5.5+']"
+    :discussion="'https://community.serversideup.net/t/add-a-custom-menu-to-your-wordpress-theme/206'>
     </recipe-header>
 
 ## Overview
