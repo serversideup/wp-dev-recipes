@@ -32,7 +32,7 @@
             </div>
             <div class="p-4 border-t border-recipe-header-border flex items-center" v-if="tutorial != ''">
                 <img style="margin-top: 0px; margin-bottom: 0px; margin-right: 14px;" class="light-img" src="/icons/lab.svg"/>
-                <img style="margin-top: 0px; margin-bottom: 0px; margin-right: 14px;" class="dark-img" src="/icons/lab-dark.svg"/>
+                <img style="margin-top: 0px; margin-bottom: 0px; margin-right: 14px; line-height: 19px;" class="dark-img" src="/icons/lab-dark.svg"/>
                 <span>If you are looking for a detailed guide, <a :href="tutorial" style="color: #3A66DB !important; text-decoration: none !important;" target="_blank">read the tutorial related to this post</a></span>
             </div>
         </div>
