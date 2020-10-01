@@ -1,13 +1,19 @@
 import theme from '@nuxt/content-theme-docs'
 
 const createSitemapRoutes = async () => {
+  const { $content } = require('@nuxt/content')
   let routes = [];
-  
-  routes.push('/how-to-use-these-recipes');
-  routes.push('/general/packaging-your-plugin-or-theme-with-laravel-mix');
-  routes.push('/themes/install-tailwind-css-in-your-wordpress-theme');
-  routes.push('/themes/add-custom-menu-to-your-wordpress-theme');
-  
+
+  const posts = await $content({ deep: true })
+    .only(['to'])
+    .fetch()
+
+  posts.forEach( function( post, index ){
+    if( post.extension == '.md' ){
+      routes.push( post.to );
+    }
+  });
+
   return routes;
 }
 
