@@ -9,7 +9,8 @@ const createSitemapRoutes = async () => {
     .fetch()
 
   posts.forEach( function( post, index ){
-    if( post.extension == '.md' ){
+    // For some reason it always pulls the settings.json from the content.
+    if( post.to != '//settings' ){
       routes.push( post.to );
     }
   });
@@ -36,7 +37,6 @@ export default theme({
   sitemap: {
     hostname: 'https://wp-dev-recipes.serversideup.net',
     gzip: true,
-    routes: createSitemapRoutes,
-    lastmod: '2020-09-28'
+    routes: createSitemapRoutes
   },
 })
