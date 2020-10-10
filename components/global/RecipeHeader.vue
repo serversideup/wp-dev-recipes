@@ -15,7 +15,7 @@
                     <img src="/icons/clock-dark.svg" class="mr-2 dark-img" style="margin-top: 0px; margin-bottom: 0px;"/>
                     <div class="flex flex-col">
                         <span class="text-recipe-meta-title dark:text-gray-400 text-sm leading-none mb-1">Complexity</span>
-                        <span class="text-recipe-meta text-sm font-bold leading-none" v-text="complexity"></span>
+                        <span class="text-recipe-meta dark:text-gray-400 text-sm font-bold leading-none" v-text="complexity"></span>
                     </div>
                 </div>
                 <div v-if="compatibility.length > 0" class="max-w-sm flex items-start ml-20">
@@ -23,7 +23,7 @@
                     <img src="/icons/gears-dark.svg" class="mr-2 dark-img" style="margin-top: 0px; margin-bottom: 0px;"/>
                     <div class="flex flex-col">
                         <span class="text-recipe-meta-title dark:text-gray-400 text-sm leading-none mb-1">Compatibility</span>
-                        <span class="text-recipe-meta text-sm font-bold leading-none" 
+                        <span class="text-recipe-meta dark:text-gray-400 text-sm font-bold leading-none" 
                             v-for="( value, key ) in compatibility"
                             :key="'compatibility-'+key"
                             v-text="value"></span>
