@@ -1,7 +1,7 @@
 ---
 title: Packaging Your Plugin or Theme With Laravel Mix
 description: ''
-position: 1
+position: 1.1
 category: General
 ---
 
