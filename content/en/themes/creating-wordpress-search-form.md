@@ -11,7 +11,8 @@ category: Themes
 
 <recipe-header 
     :complexity="'Medium'"
-    :compatibility="['WordPress 5.4, 5.5+']">
+    :compatibility="['WordPress 5.4, 5.5+']"
+    :discussion="'https://community.serversideup.net/t/creating-a-wordpress-search-form/219'">
     </recipe-header>
 
 ## Overview

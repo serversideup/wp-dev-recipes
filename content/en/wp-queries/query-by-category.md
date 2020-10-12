@@ -11,7 +11,8 @@ category: WP Queries
 
 <recipe-header 
     :complexity="'Low'"
-    :compatibility="['WordPress 5.4, 5.5+']">
+    :compatibility="['WordPress 5.4, 5.5+']"
+    :discussion="'https://community.serversideup.net/t/wp-query-posts-or-pages-by-category/221'">
     </recipe-header>
 
 ## Overview

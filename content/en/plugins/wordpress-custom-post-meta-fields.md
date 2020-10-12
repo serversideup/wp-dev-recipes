@@ -1,7 +1,7 @@
 ---
 title: Add WordPress Custom Post Meta Fields
 description: ''
-position: 5.1
+position: 3.1
 category: Plugins
 ---
 
@@ -11,7 +11,8 @@ category: Plugins
 
 <recipe-header 
     :complexity="'Medium'"
-    :compatibility="['WordPress 5.0+']">
+    :compatibility="['WordPress 5.0+']"
+    :discussion="'https://community.serversideup.net/t/add-wordpress-custom-post-meta-fields/218'">
     </recipe-header>
 
 ## Overview

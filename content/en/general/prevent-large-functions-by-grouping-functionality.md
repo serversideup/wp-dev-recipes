@@ -9,6 +9,11 @@ category: General
     :page-url="'https://wp-dev-recipes.serversideup.net/general/prevent-large-functions-by-grouping-functionality'"
     :github-url="'https://github.com/serversideup/wp-dev-recipes'"></social>
 
+<recipe-header 
+    :complexity="'Low'"
+    :discussion="'https://community.serversideup.net/t/prevent-a-large-functions-php-by-grouping-functionality/217'">
+    </recipe-header>
+
 
 ## Overview
 One of the biggest problems I see when developing themes (and some plugins) for WordPress is maintainability (also one of the main reasons for this site). I've run across a lot of large themes that put way too much functionality in to a the `functions.php` file. And yes, I've been there myself. However, when it comes to debugging, updating, or adding functionality, these super large `functions.php` files become cumbersome and make the whole process take WAAY longer than it should.
