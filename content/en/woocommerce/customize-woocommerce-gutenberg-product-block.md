@@ -11,7 +11,8 @@ category: WooCommerce
 
 <recipe-header 
     :complexity="'Low'"
-    :compatibility="['WordPress 5.4, 5.5+', 'WooCommerce 4+']">
+    :compatibility="['WordPress 5.4, 5.5+', 'WooCommerce 4+']"
+    :discussion="'https://community.serversideup.net/t/customize-the-woocommerce-gutenberg-product-block/222'">
     </recipe-header>
 
 ## Overview
