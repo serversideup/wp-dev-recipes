@@ -49,3 +49,4 @@ This will <strong>NOT</strong> work if you are using 'plain' permalinks!!! You w
 
 ## Usage Ideas
 * Allow users to insert their WooCommerce products into posts/pages with Gutenberg
+* Add custom buttons for methods of AJAX cart add, view pop up modal with more information, etc.
