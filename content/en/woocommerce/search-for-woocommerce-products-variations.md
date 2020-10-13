@@ -11,7 +11,8 @@ category: WooCommerce
 
 <recipe-header 
     :complexity="'Medium'"
-    :compatibility="['WordPress 5.4, 5.5+', 'WooCommerce 4+']">
+    :compatibility="['WordPress 5.4, 5.5+', 'WooCommerce 4+']"
+    :discussion="'https://community.serversideup.net/t/search-for-woocommerce-products-and-variations/223'">
     </recipe-header>
 
 ## Overview
