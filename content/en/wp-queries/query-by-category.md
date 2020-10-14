@@ -2,7 +2,7 @@
 title: WP Query Posts or Pages By Category
 description: ''
 position: 5.1
-category: WP Queries
+category: ❓ WP Queries
 ---
 
 <social :tweet-text="'WP Query Posts or Pages By Category'"

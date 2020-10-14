@@ -2,7 +2,7 @@
 title: Search For WooCommerce Products and Variations
 description: ''
 position: 4.3
-category: WooCommerce
+category: 💰 WooCommerce
 ---
 
 <social :tweet-text="'Search For WooCommerce Products and Variations'"

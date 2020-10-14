@@ -2,7 +2,7 @@
 title: Introduction
 description: 'WP Dev Recipes is a collection of modular code “recipes” to make your WordPress development experience easier.'
 position: 0
-category: ''
+category: 👉 Getting Started
 features:
   - Each recipe is modular and re-usable that solves one problem, very well
   - We cover many undocumented features inside of WordPress

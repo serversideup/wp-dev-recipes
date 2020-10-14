@@ -2,7 +2,7 @@
 title: Customize the WooCommerce Gutenberg Product Block
 description: ''
 position: 4.2
-category: WooCommerce
+category: 💰 WooCommerce
 ---
 
 <social :tweet-text="'Customize the WooCommerce Gutenberg Product Block'"

@@ -2,7 +2,7 @@
 title: Add WordPress Custom Post Meta Fields
 description: ''
 position: 3.1
-category: Plugins
+category: 🔌 Plugins
 ---
 
 <social :tweet-text="'Add WordPress Custom Post Meta Fields'"

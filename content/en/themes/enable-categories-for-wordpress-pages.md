@@ -2,7 +2,7 @@
 title: Enable Categories on WordPress Pages
 description: ''
 position: 2.3
-category: Themes
+category: 🎨 Themes
 ---
 
 <social :tweet-text="'Enable Categories on WordPress Pages'"

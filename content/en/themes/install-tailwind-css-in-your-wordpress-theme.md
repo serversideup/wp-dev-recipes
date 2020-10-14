@@ -2,7 +2,7 @@
 title: Install TailwindCSS in Your WordPress Theme
 description: ''
 position: 2
-category: Themes
+category: 🎨 Themes
 ---
 
 <social :tweet-text="'Install TailwindCSS in Your WordPress Theme'"

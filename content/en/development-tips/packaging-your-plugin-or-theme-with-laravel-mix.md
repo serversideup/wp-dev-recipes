@@ -2,7 +2,7 @@
 title: Packaging Your Plugin or Theme With Laravel Mix
 description: ''
 position: 1.1
-category: General
+category: ⚡️ Development Tips
 ---
 
 <social :tweet-text="'Packaging Your WordPress Plugin or Theme With Laravel Mix'"

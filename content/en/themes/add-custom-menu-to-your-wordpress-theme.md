@@ -2,7 +2,7 @@
 title: Add a Custom Menu To Your WordPress Theme
 description: ''
 position: 2.1
-category: Themes
+category: 🎨 Themes
 ---
 
 <social :tweet-text="'Add a Custom Menu to Your Wordpress Theme'"

@@ -2,7 +2,7 @@
 title: How To Use These Recipes
 description: ''
 position: 0.2
-category: ''
+category: 👉 Getting Started
 ---
 
 ## How To Use These Recipes

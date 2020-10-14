@@ -2,7 +2,7 @@
 title: Creating a WordPress Search Form
 description: ''
 position: 2.2
-category: Themes
+category: 🎨 Themes
 ---
 
 <social :tweet-text="'Creating a WordPress Search Form'"

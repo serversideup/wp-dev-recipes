@@ -2,7 +2,7 @@
 title: Prevent a Large functions.php By Grouping Functionality
 description: ''
 position: 1.2
-category: General
+category: ⚡️ Development Tips
 ---
 
 <social :tweet-text="'Prevent a Large functions.php By Grouping Functionality'"

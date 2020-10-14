@@ -2,7 +2,7 @@
 title: Display WooCommerce Featured Products
 description: ''
 position: 4.1
-category: WooCommerce
+category: 💰 WooCommerce
 ---
 
 <social :tweet-text="'Display WooCommerce Featured Products'"
